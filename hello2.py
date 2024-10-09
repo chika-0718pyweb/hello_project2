@@ -1,0 +1,1 @@
+print("hello.pyを追加した後にhello.py2を追加しました。")
